@@ -11,4 +11,4 @@ Toshkent. IT o'qituvchi (kiberxavfsizlik, tizim va tarmoq administratorligi), av
 
 ## Texnologiyalar
 
-Python · FastAPI · PostgreSQL · PowerShell · Active Directory · Linux · Bash · Telegram Bot API · Docker
+Python · FastAPI · PostgreSQL · PowerShell · Active Directory · Linux · Bash · Telegram Bot API
