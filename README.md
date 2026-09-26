@@ -9,6 +9,7 @@ Toshkent. IT o'qituvchi (kiberxavfsizlik, tizim va tarmoq administratorligi), av
 | [OSI Kali Lab](https://github.com/samandarkhajaabdullayev-png/Simon/tree/main/osi-kali-lab) | Kiberxavfsizlik / ta'lim — OSI modelining 7 qavatini Kali Linux'da jonli ko'rsatuvchi interaktiv tool | ✅ Tayyor |
 | [Remar.uz](https://github.com/samandarkhajaabdullayev-png/remar-uz) | E-commerce — temir yo'l asboblari internet-do'koni (Django, PostgreSQL, Telegram bildirishnomalar) | ✅ Tayyor |
 | [Car Rental](https://github.com/samandarkhajaabdullayev-png/car-rental) | Avtomobil ijarasi boshqaruvi — React 19, NestJS 11, Prisma/PostgreSQL, PWA | ✅ Tayyor |
+| Kaskadli tarmoq imtihoni | Ta'lim — tizim administratori kursi uchun amaliy imtihon: subnetting, WISP kaskad, NAT, diagnostika, baholash rubrikasi | ✅ Tayyor (yopiq) |
 | Game Club platformasi | Kompyuter klubi boshqaruvi — AD/GPO avtomatik o'rnatish, Telegram admin panel, yosh tekshiruvi | 🚧 Ishlanmoqda (yopiq) |
 
 ## Texnologiyalar
